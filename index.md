@@ -9,7 +9,7 @@
 
 ---
 [Regression](/sample_page)
-<img src="images/Regression.jpg?raw=true"/>
+<img src="images/Regression.jpg?raw=true" width=50% height=50%/>
 
 ---
 [Hyperparameter Optimization](/sample_page)
