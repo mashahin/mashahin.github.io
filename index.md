@@ -8,8 +8,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Regression](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Regression](/sample_page)
+<img src="images/Predicting-stockvalues-python-sklearn-regression.tif?raw=true"/>
 
 ---
 [Hyperparameter Optimization](/sample_page)
