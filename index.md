@@ -13,7 +13,7 @@
 
 ---
 [Hyperparameter Optimization](http://example.com/)
-<img src="images/GridSearchHyperTuning.png?raw=true" width=50% height=50%>
+<img src="images/GridSearchHyperTuning.png" width=50% height=50%>
 
 ---
 [Deployment](http://example.com/)
