@@ -9,7 +9,7 @@
 
 ---
 [Regression](/sample_page)
-<img src="images/Predicting-stockvalues-python-sklearn-regression.tif?raw=true"/>
+<img src="images/Predicting-stockvalues-python-sklearn-regression.tif"/>
 
 ---
 [Hyperparameter Optimization](/sample_page)
