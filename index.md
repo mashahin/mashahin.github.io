@@ -12,7 +12,7 @@
 <img src="images/Regression.jpg?raw=true" width=50% height=50%/>
 
 ---
-[Hyperparameter Optimization](/sample_page)
+[Optimization](/sample_page)
 <img src="images/GridSearchHyperTuning.png?raw=true" width=50% height=50%/>
 
 ---
